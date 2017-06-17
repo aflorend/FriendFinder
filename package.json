@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/aflorend/FriendFinder/issues"
   },
-  "homepage": "https://github.com/aflorend/FriendFinder#readme"
+  "homepage": "https://github.com/aflorend/FriendFinder#readme",
+  "engines": {
+    "node": "6.9.3"
+  }
 }
